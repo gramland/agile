@@ -5,8 +5,7 @@
 Sometimes the perspectives that challenge our thinking are the ones that teach us the most. 
 The point of learning is not to affirm our beliefs. It's to evolve our beliefs.
 
-Scrum does not define any estimation technique. 
-[ScrumPapers](http://jeffsutherland.org/scrum/ScrumPapers.pdf)
+Scrum does not define any estimation technique. ( [ScrumPapers](http://jeffsutherland.org/scrum/ScrumPapers.pdf) )
 
 This creates tons of opinionated articles around Story Points, velocity, estimations....
 It’s up to the Scrum Team to agree upon what’s the best way to estimate and if/how to use SP (definition, meaning, limits, praxis…)
