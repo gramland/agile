@@ -5,9 +5,9 @@ The point of learning is not to affirm our beliefs. It's to evolve our beliefs.
 
  # Story Points
 
-  * [SP Velocity vs Throughput as a Lead-Time Predictor](accelerate/)
-  * [“Story Points Revisited”](accelerate/pdfs/state-of-devops-2019.pdf) by Ron Jeffries, one of the three founders of the Extreme Programming
-  * [Point of view on some common mistakes](https://cloud.google.com/devops)
+  * [SP Velocity vs Throughput as a Lead-Time Predictor](https://observablehq.com/@troymagennis/story-point-velocity-or-throughput-forecasting-does-it-mat)
+  * [“Story Points Revisited”](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) by Ron Jeffries, one of the three founders of the Extreme Programming
+  * [Point of view on some common mistakes](https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7)
   * SP & Bugs
     * [SP to bugs](https://www.infoq.com/news/2011/01/story-points-to-bugs/)
   * SP Value
