@@ -16,3 +16,36 @@ The point of learning is not to affirm our beliefs. It's to evolve our beliefs.
     * [How-much-does-a-story-point-cost](https://blog.scottlogic.com/2018/02/16/how-much-does-a-story-point-cost.html)
 
 
+# AGILE Links
+
+* (http://www.scaledagileframework.com/spikes/)
+* https://agilemanifesto.org/
+* (https://approachperfect.com/agile-training/scrum-events-myths-and-facts/)
+* (https://retromat.org/blog/wp-content/uploads/Retromat_Quick-Reference-to-all-activities_v201802.pdf)
+* (https://funretro.io/retrospective-ideas)
+* (https://www.atlassian.com/agile/scrum/retrospectives)
+* (https://eu.create.powerapps.com/studio/#)
+* (https://github.com/sannykim/guides/tree/master/src/pages/agile)
+* (https://www.dropbox.com/s/qsitv2v30olqhms/Scrum-checklist.pdf?dl=0)
+
+# Misc Tools
+* (https://canvaspaint.org/#local:3dec588c19f78)
+* (https://awwapp.com/)
+* (https://tinypng.com/)
+* (https://pixlr.com/e/)
+* (https://kanboard.org/)
+* (https://planningpokeronline.com/)
+* (https://ideaboardz.com/)
+* (https://apps.timwhitlock.info/emoji/tables/unicode)
+* (https://www.yammer.com/truata.com/#/threads/inGroup?type=in_group&feedId=18005950464)
+* (https://www.wordclouds.com/)
+* (https://www.thesaurus.com/)
+* (https://sway.office.com/o24o5vbiT743oK8u)
+* (http://ipadstopwatch.com/full-screen-stopwatch.html)
+* (https://www.online-stopwatch.com/)
+
+## Fun
+* (https://imisstheoffice.eu/)
+* (https://create.kahoot.it/)
+* (https://burble.buzz/)
+* (https://pixelthoughts.co/corona/)
