@@ -180,15 +180,64 @@ Although the Sprint Retrospective provides a formal opportunity to focus on insp
 
 * Actions
 
+# Template HSP 29
+
+* Background
+
+  Burn-down, velocity-chart.
+
+  
+  ## Intro 15'
 
 
+Delivering clarity, purpose, expectations
+
+”Planning Is Everything. The Plan Is Nothing” - Dwight Eisenhower
+
+  - Importance of planning, roadmap, estimations, commitments, due dates.
+
+  - Performance: Lead time, Deployment frequency.
+
+  - Due dates are not the end of the project but the start of revenue.
+
+“Everybody has a plan until they get punched in the face“ - Mike Tyson
 
 
+* Agile Principles (4/12)
+
+  - Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+
+  - Business people and developers must work together daily throughout the project.
+
+  - Build projects around motivated individuals.Give them the environment and support they need, and trust them to get the job done.
+
+  - The best architectures, requirements, and designs emerge from self-organizing teams.
 
 
+* Reacting to changes
 
+  - As team we accept and welcome changes and we need to demand clarity, descriptions, value, requirements, ACs around requested changes.
 
+  - If team members have capacity they should take next top priority item from PBL. This means the PBL should have item ready and estimates enough for 1.5-2 sprints ahead. We all need to contribute to make this happen.
 
+## Look Back - 30'
+
+In this part we:
+
+  - Follow up on actions and insights from previous sprints
+
+  - Inspect how the last Sprint went with regards to people, relationships, process, and tools.
+
+  - Identify and order the major items that went well.
+
+Insights collected on previous retros and actions will not be left behind. It’s a WIP (e.g. DoD, DoR, Story points, How to divide stories, Spikes)
+
+* Main course - Marie Kondo 
+  - What brings you joy
+  - What to recycle
+  - What to throw out
+  
+* Actions
 
 
 
