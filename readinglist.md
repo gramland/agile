@@ -1,15 +1,10 @@
-# Auto
+# Unordered raw list of rerources
+
+  ## Open tabs
+
 https://app.comparativeagility.com/admin/main/Ca/collectors|
 
 https://app.comparativeagility.com/personal-improvement/results|
-
-https://designsprintkit.withgoogle.com/methodology/phase6-validate|
-
-https://www.wibas.com/blog/agile-myth-writing-user-stories-is-product-owner-work/|
-
-https://www.romanpichler.com/romans-podcasts/10-tips-for-writing-good-user-stories|
-
-https://www.wibas.com/blog/agile-myths-user-stories-a-mandatory-format-for-scrum-teams/|
 
 https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/|
 
@@ -48,6 +43,15 @@ https://hbr.org/2020/01/what-it-takes-to-give-a-great-presentation?utm_campaign=
 https://www.groovypost.com/howto/copy-urls-from-all-open-tabs-in-browser/
 
 
-# Manual
+  ## Manually added
 
 https://designsprintkit.withgoogle.com/methodology/phase1-understand
+
+  ### About User Stories
+https://www.wibas.com/blog/agile-myth-writing-user-stories-is-product-owner-work/
+
+https://www.romanpichler.com/romans-podcasts/10-tips-for-writing-good-user-stories
+
+https://www.wibas.com/blog/agile-myths-user-stories-a-mandatory-format-for-scrum-teams/
+
+
