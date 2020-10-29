@@ -44,6 +44,8 @@ The point of learning is not to affirm our beliefs. It's to evolve our beliefs.
 * (http://ipadstopwatch.com/full-screen-stopwatch.html)
 * (https://www.online-stopwatch.com/)
 
+See pvt repo learn...
+
 ## Fun
 * (https://imisstheoffice.eu/)
 * (https://create.kahoot.it/)
