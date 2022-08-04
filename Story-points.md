@@ -12,10 +12,12 @@ Here few links to challenge our beliefs.
 
 Estimation techniques
 
-1.	[“Story Points Revisited”](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) by Ron Jeffries, one of the 3 founders of Extreme Programming
-2.	[SP Velocity vs Throughput as a Lead-Time Predictor](https://observablehq.com/@troymagennis/story-point-velocity-or-throughput-forecasting-does-it-mat)
-3.	https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7
-4.	https://www.atlassian.com/agile/project-management/estimation
+1.	What are Story Points video - https://www.youtube.com/watch?v=VsSaolMtkKU
+2.	[“Story Points Revisited”](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) by Ron Jeffries, one of the 3 founders of Extreme Programming
+3.	[SP Velocity vs Throughput as a Lead-Time Predictor](https://observablehq.com/@troymagennis/story-point-velocity-or-throughput-forecasting-does-it-mat)
+4.	https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7
+5.	https://www.atlassian.com/agile/project-management/estimation
+6.	
 
 Story point value outside of stories
 
