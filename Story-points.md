@@ -17,7 +17,6 @@ Estimation techniques
 3.	[SP Velocity vs Throughput as a Lead-Time Predictor](https://observablehq.com/@troymagennis/story-point-velocity-or-throughput-forecasting-does-it-mat)
 4.	https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7
 5.	https://www.atlassian.com/agile/project-management/estimation
-6.	
 
 Story point value outside of stories
 
