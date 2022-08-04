@@ -54,4 +54,8 @@ https://www.romanpichler.com/romans-podcasts/10-tips-for-writing-good-user-stori
 
 https://www.wibas.com/blog/agile-myths-user-stories-a-mandatory-format-for-scrum-teams/
 
+Mapping User Stories in Agile - https://www.nngroup.com/articles/user-story-mapping/
+
+
+
 
